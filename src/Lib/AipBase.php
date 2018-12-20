@@ -16,8 +16,8 @@
 */
 namespace Chichoyi\BaiduFace\Lib;
 
-require_once 'AipHttpClient.php';
-require_once 'AipBCEUtil.php';
+use Chichoyi\BaiduFace\Lib\AipHttpClient;
+use Chichoyi\BaiduFace\Lib\AipHttpUtil;
 
 /**
  * Aip Base 基类

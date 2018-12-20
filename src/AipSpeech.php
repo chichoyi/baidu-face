@@ -16,7 +16,7 @@
 */
 namespace Chichoyi\BaiduFace;
 
-require_once 'Lib/AipBase.php';
+use Chichoyi\BaiduFace\Lib\AipBase;
 
 /**
  * 百度语音

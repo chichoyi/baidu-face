@@ -16,7 +16,7 @@
 */
 namespace Chichoyi\BaiduFace;
 
-require_once 'AipImageCensor.php';
+use Chichoyi\BaiduFace\AipImageCensor;
 
 /**
  * 内容审核
