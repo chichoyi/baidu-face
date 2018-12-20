@@ -1,0 +1,27 @@
+{
+    "name": "chichoyi/baidu-face",
+    "description": "baidu-face-v3.* for laravel 5.*",
+    "type": "library",
+    "keywords": [
+        "baidu-face",
+        "laravel"
+    ],
+    "homepage": "https://github.com/chichoyi/baidu-face",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chichoyi",
+            "email": "chichoyi@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chichoyi\\BaiduFace\\": "src"
+        }
+    },
+    "extra": {
+    }
+}
